@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>shuffle.png</file>
-        <file>background.png</file>
-        <file>background2.jpg</file>
-        <file>side-menu-svgrepo-com.png</file>
-    </qresource>
-    <qresource prefix="/sounds"/>
-</RCC>
